@@ -1,0 +1,28 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+.aqua-scape-wrapper{
+display: inline-block;
+    width: 100%; 
+
+}
+.aqua-scape-left {
+    float: left;
+    width: 70%;
+}
+.aqua-scape-right {
+    float: left;
+    margin-top: 52px;
+    padding: 0 1%;
+    width: 28%;
+}
+.aqua-scape-right-panel {
+    background-color: #ffffff;
+    border: 1px solid #e5e5e5;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+    padding: 1.5em;
+}
+.delete_msg {
+    margin-top: 55px !important;
+}
